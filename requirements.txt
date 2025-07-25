@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+openai
+python-dotenv
+tavily
+langchain-tavily
+kiteconnect-py
+streamlit
+yfinance
+pandas
+graphviz
