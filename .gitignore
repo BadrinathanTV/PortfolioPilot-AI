@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Environment / API keys
+.env
+.python-version
+uv.lock
+.uv/
+
+# Bytecode & logs
+*.pyc
+*.log
